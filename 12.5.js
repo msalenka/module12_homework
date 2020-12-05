@@ -1,3 +1,7 @@
+// Задание 5.
+
+// Переписать консольное приложение из предыдущего юнита на классы.
+
 class ElectricItem {
     constructor(name, kilowatt, favor) {
     this.name = name,
