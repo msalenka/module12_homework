@@ -9,7 +9,7 @@ function isKey(object, string) {
     }
     else { return false };
     
-}
+};
 
 let someObject = { 1: "one", 2: "two", 3: "three" };
 let someString = 1;
